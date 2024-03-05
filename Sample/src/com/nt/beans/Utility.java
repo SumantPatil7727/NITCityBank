@@ -12,4 +12,9 @@ public class Utility {
 		System.out.println("Utility.m1(): 1234");
 		System.out.println("Abc123");
 	}
+	
+	public void m2() {
+		System.out.println("m2");
+		
+	}
 }
